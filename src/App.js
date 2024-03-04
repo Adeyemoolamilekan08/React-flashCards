@@ -4,7 +4,7 @@ import "./index.css";
 export default function App() {
   return (
     <div className="App">
-       <h1 className="flash">FlashCards</h1>
+       <h1 className="flash">FlashCards Update</h1>
       <FlashCards />
 
      
